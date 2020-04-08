@@ -13,5 +13,5 @@ console.log(last);*/
 console.log(first);*/
 
 //Middle
-numbers.splice(2, 2);
+numbers.splice(1, 2);
 console.log(numbers);
